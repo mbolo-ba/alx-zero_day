@@ -1,1 +1,2 @@
-directory for first day git files
+directory for first-day git files
+
